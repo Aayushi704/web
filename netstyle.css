@@ -1,0 +1,40 @@
+
+.head{
+    margin-left: 510px;
+    
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+.container form{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 30px;
+    background-color: #ffffff;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+
+.container form label{
+    padding: 5opx;
+}
+.container input{
+    margin-bottom: 30px;
+}
+form button{
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+form button:hover{
+    color: #0056b3;
+
+}
+footer{
+    text-align: center;
+    border: 20px;
+}
